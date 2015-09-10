@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='isilon',
     description='Python library for using the Isilon API',
-    version='0.1',
+    version='0.2',
     author='Matt Robertson',
     author_email='sile16@gmail.com',
     packages=['isilon'],
